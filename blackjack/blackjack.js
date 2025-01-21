@@ -1,3 +1,4 @@
+// I DIDNT CREATE THIS CODE!!! I followed this youtube tut: https://www.youtube.com/watch?v=bMYCWccL-3U&t=473s
 
 let dealerSum = 0;
 let yourSum = 0;
